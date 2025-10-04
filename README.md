@@ -58,7 +58,7 @@ Artık tuşlara basarak davul seslerini çalabilirsin! 🥁
 
 ## 🖼️ Ekran Görüntüsü
 
-
+![image alt](https://github.com/sercancintosunn/DrumKit/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-04%20185939.png?raw=true)
 
 ---
 
@@ -71,6 +71,7 @@ Bu proje, **JavaScript’te eventListener**, **audio playback** ve **CSS transit
 
 
 📘 GitHub: [github.com/sercancintosunn](https://github.com/sercancintosunn)
+Canlı Demo: https://drum-kit-three-xi.vercel.app/
 
 
 
